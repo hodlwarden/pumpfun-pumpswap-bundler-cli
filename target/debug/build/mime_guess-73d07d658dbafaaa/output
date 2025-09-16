@@ -1,1 +1,0 @@
-cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/root/projects/Volazier-CLI-main/target/debug/build/mime_guess-73d07d658dbafaaa/out/mime_types_generated.rs
