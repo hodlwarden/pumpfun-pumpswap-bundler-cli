@@ -1,0 +1,9 @@
+{
+    "name": "MONKEE",
+    "symbol": "MNK",
+    "description": "A Monkee",
+    "filePath": "./metadata/image.png",
+    "twitter": "https://x.com/monkee",
+    "telegram": "https://t.me/monkee",
+    "website": "https://monkee.com"
+}

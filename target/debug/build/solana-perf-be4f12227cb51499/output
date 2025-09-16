@@ -1,0 +1,2 @@
+cargo:rustc-cfg=build_target_feature_avx
+cargo:rustc-cfg=build_target_feature_avx2
