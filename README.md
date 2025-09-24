@@ -1,4 +1,4 @@
-# Pumpfun Pumpswap Bundler CLI Bot
+# 🚀🚀🚀 Pumpfun Pumpswap Bundler CLI Bot 🚀🚀🚀 
 
 Pumpfun/Pumpswap Bundler is a tool that users can operate their tokens like creating/bundle buying/operating volumes based on their setting.
 It has potential that can be most profitable tool without any risk (we're always worrying about rug pools), you can return back your invested sol, at least.
