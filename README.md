@@ -9,7 +9,7 @@ It has potential that can be most profitable tool without any risk (we're always
 - https://gmgn.ai/sol/token/QK2rHPUXrKFJ4Jdq3JVDQAf29fVeMqBk2KD88iRbYp3
 - https://gmgn.ai/sol/token/DCBMLWMZsxhAnwhM2itnaNGMnhDSZKvgfUbQr2QUPvc5
 
-## Contributing
+## Contact
 Contributions are welcome! Please open an issue or pull request for any improvements.
 Feel free to reach out me for any suggestions and questions, you're always welcome.
 <br>
